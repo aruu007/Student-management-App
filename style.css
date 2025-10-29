@@ -1,0 +1,10 @@
+body{ font-family: Arial, sans-serif; background:#f0f4f8; padding:20px }
+.container{ max-width:900px; margin:0 auto; background:white; padding:20px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.08) }
+h1{ text-align:center }
+.form{ display:grid; gap:8px; margin-bottom:20px; }
+.form input{ padding:8px; border:1px solid #ddd; border-radius:4px }
+.buttons{ margin-top:6px }
+button{ padding:8px 12px; border-radius:6px; border:none; cursor:pointer; background:#1f6feb; color:white; margin-right:8px }
+table{ width:100%; border-collapse:collapse; margin-top:10px }
+th, td{ padding:8px; border-bottom:1px solid #eee; text-align:left }
+.action-btn{ background:#6b7280; padding:6px 8px; border-radius:6px; color:white; margin-right:6px; cursor:pointer; border:none }
